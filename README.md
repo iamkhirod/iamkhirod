@@ -137,7 +137,7 @@ A web-based shopping application focused on creating an interactive and user-fri
 📍 **Bhubaneswar, India**
 
 
-LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/khirod-behera/)
+LinkedIn: https://www.linkedin.com/in/khirod-behera/
 GitHub: https://github.com/iamkhirod
 
 📧 **Email:** [khirodbehera316@gmail.com](mailto:khirodbehera316@gmail.com)
