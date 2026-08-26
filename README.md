@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Khirod Behera 👋
 
-<!--
-**iamkhirod/iamkhirod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Undergraduate | Technology Consulting | Software Development | SAP ABAP
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate at Odisha University of Technology and Research with an interest in software development, enterprise technology, and technology consulting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+* **Programming:** Java, Python, C/C++
+* **Web Development:** HTML, CSS, JavaScript
+* **Database:** SQL
+* **Enterprise Technology:** SAP ABAP, SAP RAP, CDS Views
+* **Core Concepts:** OOP, DBMS, Data Structures & Algorithms
+
+## 🚀 Featured Projects
+
+### 📊 Online Marks Entry & Result Management Portal
+
+A web-based academic management system for online marks entry, automated result calculation, grade generation, and student performance management.
+
+**Technologies:** SQL, Web Development, OOP
+
+### ✈️ Flight Booking Management System
+
+A database-driven flight booking application developed using SAP technologies for structured passenger, booking, payment, and transaction management.
+
+**Technologies:** SAP ABAP, SAP RAP, CDS Views, SQL
+
+### 🛍️ Trend Shop
+
+A web-based shopping project focused on building an interactive and user-friendly online shopping experience.
+
+**Technologies:** Web Development
+
+## 📚 Currently Learning
+
+* Software Development
+* SAP Enterprise Technologies
+* Data Structures & Algorithms
+* Software Engineering
+
+## 🎯 Career Interests
+
+**Technology Consulting • Software Development • Enterprise Technology • SAP**
+
+## 🤝 Connect With Me
+
+* **LinkedIn:** Add your LinkedIn profile
+* **GitHub:** https://github.com/iamkhirod
+
+---
+
+⭐ Thanks for visiting my profile!
