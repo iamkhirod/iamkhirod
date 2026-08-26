@@ -45,7 +45,7 @@ A web-based shopping project focused on building an interactive and user-friendl
 
 ## 🤝 Connect With Me
 
-* **LinkedIn:** Add your LinkedIn profile
+* **LinkedIn:** https://www.linkedin.com/in/khirod-behera/
 * **GitHub:** https://github.com/iamkhirod
 
 ---
