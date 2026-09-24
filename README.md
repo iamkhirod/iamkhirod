@@ -69,7 +69,7 @@ A web-based academic management portal designed for online marks entry, automate
 * Role-based access for administrators, faculty, and students
 * SQL database integration for efficient data storage and retrieval
 
-**Technologies:** HTML5, CSS3, JavaScript, SQL, OOP
+**Technologies:** HTML5, CSS3, JavaScript, SQL, OOP, Role-Based Access Control
 
 ---
 
